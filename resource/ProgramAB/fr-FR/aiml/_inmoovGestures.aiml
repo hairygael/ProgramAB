@@ -540,7 +540,7 @@
   <category><pattern>ARRÊTE * OREILLES</pattern>
   <template><srai>ARRÊTE D ÉCOUTER</srai></template>
   </category>
-    <pattern>VITESSE MAXI</pattern>
+  <category><pattern>VITESSE MAXI</pattern>
     <template>Mes servos sont en vitesse maximum.
         <oob><mrl><service>python</service><method>exec</method><param>fullspeed()</param></mrl></oob></template>
   </category>
