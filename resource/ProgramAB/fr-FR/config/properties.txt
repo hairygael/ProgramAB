@@ -6,6 +6,7 @@ master:Gael
 organization:InMoov Foundation
 version:0.1
 location:Paris, France
+birth:9 10 2011
 birthplace:Paris, France
 favoritecolor:orange
 wear:Combinaison orange
