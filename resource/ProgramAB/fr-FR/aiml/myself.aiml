@@ -110,7 +110,7 @@
         <interval>
         <jformat>dd MM yyyy</jformat>
         <style>years</style>
-        <from>9 10 2011</from>
+        <from>birth</from>
         <to><date jformat="dd MM yyyy"/></to>
       </interval>
         </set>
@@ -118,7 +118,7 @@
         <interval>
         <jformat>dd MM yyyy</jformat>
         <style>months</style>
-        <from>9 10 2011</from>
+        <from>birth</from>
         <to><date jformat="dd MM yyyy"/></to>
       </interval>
         </set>
