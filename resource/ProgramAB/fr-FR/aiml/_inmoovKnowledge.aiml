@@ -52,11 +52,11 @@
     </template>
   </category>
   <category>
-    <pattern>SRAIXFAILED *</pattern>
+    <pattern>SRAIXFAILED #</pattern>
     <template>
       <condition name="llm">
         <li value="enabled">
-          <img src="../Llm.png" />
+          <img src="img/InMoov2/brain-resize.gif"/>
           <think>
             <set name="topic">
               <star />
@@ -78,6 +78,9 @@
         </li>
       </condition>
     </template>
+  </category>
+  <category><pattern>LLM_RESPONSE #</pattern>
+    <template><img src="../Llm.png"/></template>
   </category>
   <category>
     <pattern>SYSTEM_WIKIDATA_CATEGORIE <set>articles</set> * <set>articles</set> *</pattern>
@@ -779,3 +782,4 @@
     </template>
   </category>
 </aiml>
+
