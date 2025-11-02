@@ -79,9 +79,6 @@
       </condition>
     </template>
   </category>
-  <category><pattern>LLM_RESPONSE #</pattern>
-    <template><img src="../Llm.png"/></template>
-  </category>
   <category>
     <pattern>SYSTEM_WIKIDATA_CATEGORIE <set>articles</set> * <set>articles</set> *</pattern>
     <template>
@@ -782,4 +779,5 @@
     </template>
   </category>
 </aiml>
+
 
