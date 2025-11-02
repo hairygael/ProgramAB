@@ -56,9 +56,6 @@
       </condition>
         </template>
 </category>
-<category><pattern>LLM_RESPONSE #</pattern>
-<template><img src="../Llm.png"/></template>
-</category>
 
 <category><pattern>COMUNICACIÓN LLM</pattern>
   <template>
@@ -87,4 +84,5 @@
 </topic>
 
 </aiml>
+
 
