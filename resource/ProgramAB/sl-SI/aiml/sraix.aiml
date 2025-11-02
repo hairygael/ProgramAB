@@ -38,10 +38,6 @@
       </condition>
         </template>
 </category>
-<category><pattern>LLM_RESPONSE #</pattern>
-<template><img src="../Llm.png"/></template>
-</category>
-
 <category><pattern>VREMENSKA NAPOVED</pattern>
 <template><srai># forecast in <star/></srai></template>
 </category>
@@ -77,4 +73,5 @@
 </category>
 
 </aiml>
+
 
